@@ -1,0 +1,16 @@
+Current Weather Details for Ahmedabad, Gujarat, India (as of 2025-05-17 20:56):
+
+- Condition: Overcast
+- Temperature: 33.4°C (92.1°F)
+- Feels Like: 36.9°C (98.5°F)
+- Humidity: 47%
+- Wind: 19.8 kph (12.3 mph) from SSW
+- Gusts: 26.5 kph (16.5 mph)
+- Pressure: 1003 mb (29.62 in)
+- Visibility: 4 km (2 miles)
+- Dew Point: 21°C (69.8°F)
+- UV Index: 0
+- Cloud Cover: 0%
+- Precipitation: 0 mm
+
+Local time in Ahmedabad: 2025-05-17 20:56
